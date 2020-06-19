@@ -1,0 +1,6 @@
+{
+	"API_KEY": "YOUR_ALPHA_VANTAGE_API_KEY",
+	"symbol": "MSFT",
+	"interval": "30min",
+	"numPoints": 15
+}
